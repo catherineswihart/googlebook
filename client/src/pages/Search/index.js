@@ -1,4 +1,4 @@
-opimport React, { Component } from "react";
+import React, { Component } from "react";
 import axios from "axios";
 import AddBookBtn from "../../components/AddBookBtn";
 import { Row, Col } from "../../components/Grid";
